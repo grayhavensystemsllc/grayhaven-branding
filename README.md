@@ -51,6 +51,7 @@ Style guides:
 
 - [Discord](docs/discord.md)
 - [LinkedIn](docs/linkedin.md)
+- [Reddit](docs/reddit.md)
 - [Letterhead](docs/letterhead.md)
 - [Operator Tmux](docs/operator-tmux.md)
 - [Web Components](docs/web-components.md)

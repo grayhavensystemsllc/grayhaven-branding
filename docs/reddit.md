@@ -11,9 +11,12 @@ Guidance for use by Grayhaven Systems LLC on Reddit.
 
 ## Company profile image
 
-Use the [canonical monogram logo](../logo/png/grayhaven-logo-monogram.png) for
-the Grayhaven Systems LLC Reddit profile image. Use the monogram as provided;
-do not crop the circular border or replace its background treatment.
+Use either a Reddit avatar or the
+[canonical monogram logo](../logo/png/grayhaven-logo-monogram.png) for the
+Grayhaven Systems LLC Reddit profile image.
+
+When using the monogram, use it as provided; do not crop the circular border or
+replace its background treatment.
 
 ## Company profile banner
 

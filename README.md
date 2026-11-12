@@ -35,6 +35,7 @@ piece or variant does not yet exist.
 
 - [Logo preview](logo/index.html)
 - [Icon preview](icons/index.html)
+- [OpenAI business profile preview](openai/index.html)
 - [Web Components preview](web/components/index.html)
 - [Sample website preview](web/style-guide/index.html)
 - [Sample web application preview](web-application/index.html)
@@ -52,6 +53,7 @@ Style guides:
 - [Discord](docs/discord.md)
 - [LinkedIn](docs/linkedin.md)
 - [Reddit](docs/reddit.md)
+- [OpenAI](docs/openai.md)
 - [Letterhead](docs/letterhead.md)
 - [Operator Tmux](docs/operator-tmux.md)
 - [Web Components](docs/web-components.md)
